@@ -2,8 +2,6 @@
 
 **Since Then** is a premium, minimalist streak tracker and habit-monitoring application. Designed with a futuristic, glassmorphic aesthetic, it helps you visualize your progress and stay motivated by tracking exactly how much time has passed since you started a positive change or broke a habit.
 
-![Screenshot Placeholder](https://via.placeholder.com/1200x600?text=Since+Then+Dashboard+Preview)
-
 ## ✨ Features
 
 - **Real-time Tracking**: Watch your streak grow in real-time with counters for years, days, hours, minutes, and seconds.
