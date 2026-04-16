@@ -48,7 +48,7 @@
 - **Date Utility**: [date-fns](https://date-fns.org/)
 - **Styling**: Vanilla CSS (Modern CSS Variables & Glassmorphism)
 
-- ### 🤖 AI-Assisted Development
+### 🤖 AI-Assisted Development
 This project leverages modern AI tools to enhance development speed and creativity:
 
 - **Stitch** – Accelerated UI development and component structuring  
